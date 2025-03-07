@@ -2,6 +2,6 @@ class Main
 {
  public static void main(String[] args)
  {
-	System.out.println("Hello Not World!");
+    System.out.println("Merged");
  }
 }
